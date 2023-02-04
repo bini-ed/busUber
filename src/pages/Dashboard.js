@@ -32,7 +32,7 @@ const Dashboard = () => {
     userName: "",
   });
   const mapRef = useRef(null);
-  const GOOGLE_MAP_KEY = "AIzaSyD6ssTOjhnIn0lePvyrotNnO5IgxjDtSYw";
+  const GOOGLE_MAP_KEY = "xxx";
 
   const [destinations, setDestination] = useState({
     latitude: 0,
